@@ -1,7 +1,2 @@
 Task-2: Student Grade Calculator
-Input: Take marks obtained (out of 100) in each subject.
-Calculate Total Marks: Sum up the marks obtained in all subjects.
-Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
-average percentage.
-Grade Calculation: Assign grades based on the average percentage achieved.
-Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+This system is designed to calculate and evaluate a student’s academic performance based on the marks obtained in different subjects. It begins by taking the marks scored (out of 100) in each subject as input from the user. The program then computes the total marks by summing up the scores of all subjects. After that, it calculates the average percentage by dividing the total marks by the number of subjects, providing an overall measure of performance. Based on this average percentage, a grade is assigned according to predefined criteria, reflecting the student’s achievement level. Finally, the system displays the results, including the total marks, average percentage, and the corresponding grade, in a clear and user-friendly format.
